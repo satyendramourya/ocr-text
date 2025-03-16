@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TextOcr</string>
+    <string name="app_name">Text OCR</string>
+    <string name="select_image_for_text_recognition">Select image for text recognition</string>
+    <string name="find_text_button">Find Text</string>
+    <string name="find_text_cloud_button">Find text (cloud)</string>
+    <string name="find_objects_button">Find objects</string>
 </resources>
